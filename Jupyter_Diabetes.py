@@ -120,7 +120,9 @@ x_test = fill_values.fit_transform(x_test)
 
 
 
-st.title('Diabetes checkup')  
+st.title('Integrated Healthcare System(HS202 Project)')  
+st.subheader('Diabetic Status Predictor')
+st.subheader('Group-11')
 st.subheader('Training Data')
 st.write(df.describe())
 
